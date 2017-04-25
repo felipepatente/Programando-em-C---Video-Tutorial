@@ -1,0 +1,9 @@
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\Negocios.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\obj\Debug\Negocios.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\AcessoBancoDados.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Negocios\bin\Debug\ObjetoTransferencia.pdb

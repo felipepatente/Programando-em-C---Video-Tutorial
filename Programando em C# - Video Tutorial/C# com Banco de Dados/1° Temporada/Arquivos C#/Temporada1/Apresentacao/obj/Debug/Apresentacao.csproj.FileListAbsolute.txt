@@ -1,0 +1,17 @@
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteCadastrar.resources

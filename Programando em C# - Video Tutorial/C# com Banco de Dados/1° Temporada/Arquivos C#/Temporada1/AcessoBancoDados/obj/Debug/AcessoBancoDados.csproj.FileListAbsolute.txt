@@ -1,0 +1,5 @@
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb

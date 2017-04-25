@@ -1,0 +1,11 @@
+SELECT * FROM tblPessoa;
+SELECT * FROM tblPessoaJuridica;
+SELECT * FROM tblPessoaTipo;
+
+EXEC uspPessoaJuridicaInserir
+	'DRAUSIO NOME FANTASIA 1',
+	'DRAUSIO RAZAO SOCIAL 1',
+	'12345678901225',
+	'12345678901234258725',
+	'2013-12-14';
+	
